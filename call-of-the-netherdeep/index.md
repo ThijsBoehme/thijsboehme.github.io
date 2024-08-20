@@ -8,8 +8,8 @@ permalink: /call-of-the-netherdeep/
 
 Planet Exandria, region Xhorhas
 
-[Locations]({% link call-of-the-netherdeep/locations.md %})
-
+[Locations]({% link call-of-the-netherdeep/locations.md %})  
+[Player characters]({% link call-of-the-netherdeep/player-characters.md %})  
 [Characters]({% link call-of-the-netherdeep/characters.md %})
 
 # Open Loops
@@ -19,7 +19,7 @@ Planet Exandria, region Xhorhas
 
 # Sessions
 
-1. Festival of Merits
+1. [The Festival of Merits]({% link call-of-the-netherdeep/sessions/1-festival-of-merits.md %})
 2. Race to the Emerald Grotto
 3. On the road to Bazzoxan #1
 4. On the road to Bazzoxan #2
