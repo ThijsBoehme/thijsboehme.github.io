@@ -14,7 +14,9 @@ Jigow is a fishing town on the far northern coast of Xhorhas, divided in several
 goblins and orcs.
 The festival is located in the Jumble district, the center of Jigow.
 
-![](https://5e.tools/img/adventure/CRCotN/010-map-1.1-Jigow-player.webp)
+<p style="text-align: center">
+<img height="360" src="https://5e.tools/img/adventure/CRCotN/010-map-1.1-Jigow-player.webp"/>
+</p>
 
 We participate in several contests of the festival:
 
