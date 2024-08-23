@@ -5,6 +5,8 @@ permalink: /call-of-the-netherdeep/sessions/1-festival-of-merits
 exclude: true
 ---
 
+[&larr; Campaign index]({% link call-of-the-netherdeep/index.md %})
+
 # 2 Fessuran
 
 We're in Jigow for the Festival of Merits.
@@ -12,13 +14,13 @@ Jigow is a fishing town on the far northern coast of Xhorhas, divided in several
 goblins and orcs.
 The festival is located in the Jumble district, the center of Jigow.
 
-![](https://static.wikia.nocookie.net/criticalrole/images/e/ea/Jigow_-_Deven_Rue.jpg)
+![](https://5e.tools/img/adventure/CRCotN/010-map-1.1-Jigow-player.webp)
 
 We participate in several contests of the festival:
 
 - **pie eating**: I get bested in the third round
 - **labyrinth**: Branok and Cassi participate, Branok manages to find the exit.  
-  We are introduced to Maggie (ogre), Dermot (goblin) and Ayo (water genasi).
+  We are introduced to Maggie, Dermot and Ayo.
 - **swimming race**: from the pier to a buoy.  
   Kith participates and has to fight sharks halfway through, but still manages to pull a win.
 - **arm wrestling**: at Varce's butchery.  
@@ -30,10 +32,10 @@ We participate in several contests of the festival:
 The ending ceremony was led by Elder Ushru (orc) and announces that two teams will be part of the final event, a race to
 the submerged Emerald Grotto.
 We were the first team (we dubbed ourselves the _Midnight Mavericks_) and were competing against a team of five that we
-encountered during the day:
+encountered during the day (the [_Rivals_]({% link call-of-the-netherdeep/non-player-characters.md %}#the-rivals)):
 
-- Maggie (ogre)
-- Durmat (goblin)
-- Ayo (water genasi)
-- Irvan (human)
-- Halsariat (drow elf)
+- Maggie
+- Dermot
+- Ayo
+- Irvan
+- Galsariad

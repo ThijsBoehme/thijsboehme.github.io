@@ -5,31 +5,20 @@ permalink: /call-of-the-netherdeep/player-characters
 exclude: true
 ---
 
-## Alive
+[&larr; Campaign index]({% link call-of-the-netherdeep/index.md %})
 
-### Jacques Blacques
+## The Midnight Mavericks
 
-Human  
-Bard, college of creation
+|              Jacques Blacques               |          Gray          |        Branok        |             Cassi              | John |
+|:-------------------------------------------:|:----------------------:|:--------------------:|:------------------------------:|:----:|
+|                    Human                    | Dwarf (undead?[^Gray]) |       Wood elf       |            Tiefling            |      |
+|          Bard, college of creation          |     Phantom rogue      | Gloom stalker ranger | Storm herald barbarian[^Cassi] |      |
+| ![]({% link images/jacques-blacques.png %}) |                        |                      |                                |      |
 
-### Gray
+[^Gray]: Doesn't eat or drink, doesn't breathe either.  
+[^Cassi]: Don't stand to close, she emits some kind of fire aura when she gets angry.
 
-Dwarf, seems kind of undead? Doesn't eat or drink, doesn't breathe either.  
-Phantom rogue
-
-### Branok
-
-Wood elf  
-Gloom stalker ranger
-
-### Cassi
-
-Tiefling  
-Storm herald barbarian. Don't stand to close, she emits some kind of fire aura when she gets angry.
-
-### John
-
-## Dead
+## Past members
 
 ### Kith (&dagger; 14 Fessuran)
 

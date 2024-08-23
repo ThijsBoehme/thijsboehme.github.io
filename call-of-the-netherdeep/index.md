@@ -10,7 +10,7 @@ Planet Exandria, region Xhorhas
 
 [Locations]({% link call-of-the-netherdeep/locations.md %})  
 [Player characters]({% link call-of-the-netherdeep/player-characters.md %})  
-[Characters]({% link call-of-the-netherdeep/characters.md %})
+[Non-Player Characters]({% link call-of-the-netherdeep/non-player-characters.md %})
 
 # Open Loops
 
@@ -20,7 +20,7 @@ Planet Exandria, region Xhorhas
 # Sessions
 
 1. [The Festival of Merits]({% link call-of-the-netherdeep/sessions/1-festival-of-merits.md %})
-2. Race to the Emerald Grotto
+2. [Race to the Emerald Grotto]({% link call-of-the-netherdeep/sessions/2-emerald-grotto.md %})
 3. On the road to Bazzoxan #1
 4. On the road to Bazzoxan #2
 5. Bazzoxan
