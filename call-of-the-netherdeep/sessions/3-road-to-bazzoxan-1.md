@@ -57,5 +57,5 @@ At the end of an uneventful day, we join a patrol camp and share some food, cook
 
 # 9 Fessuran
 
-We encountered the tiefling scout Justice, being attacked by two wild **moorbounders**
+We encountered the tiefling scout Justice, being attacked by two wild **moorbounders**.
 After helping him, he guides us to the Emerald Loop Caravan Stop, on the road to Bazzoxan.
