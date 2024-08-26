@@ -56,3 +56,7 @@ We encountered two stinking hezrou today, with which we dealt quickly.
 
 Finally!
 We arrived at the gates of Bazzoxan today.
+
+<p style="text-align: center">
+<img height="360" src="https://5e.tools/img/adventure/CRCotN/028-03-003.bazzoxan-scene.webp"/>
+</p>
