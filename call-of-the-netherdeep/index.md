@@ -23,7 +23,7 @@ Planet Exandria, region Xhorhas
 1. [The Festival of Merits]({% link call-of-the-netherdeep/sessions/1-festival-of-merits.md %})
 2. [Race to the Emerald Grotto]({% link call-of-the-netherdeep/sessions/2-emerald-grotto.md %})
 3. [On the road to Bazzoxan #1]({% link call-of-the-netherdeep/sessions/3-road-to-bazzoxan-1.md %})
-4. On the road to Bazzoxan #2
+4. [On the road to Bazzoxan #2]({% link call-of-the-netherdeep/sessions/4-road-to-bazzoxan-2.md %})
 5. Bazzoxan
 6. Entering the Betrayers' Rise
 
