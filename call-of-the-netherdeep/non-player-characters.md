@@ -22,10 +22,24 @@ We saw a vision of him chained to a crimson fleshy mass.
 > Moonweaver, guide those with the power to save me to the place where I first prayed to
 > you.[^1]  
 > I'm lost in darkness.  
-> I prayed to the Changebringer in the heart of the temple of evil.[^2]  
+> I prayed to the Change Bringer in the heart of the temple of evil.[^2]  
 > Take my jewel and...
 
 [^1]: This is the Emerald Grotto
 [^2]: This is the Betrayers' Rise in Bazzoxan
 
 He is somehow related to the Calamity.
+
+## Betrayer Gods
+
+| God       | Symbol                               | Image |
+|-----------|--------------------------------------|-------|
+|           | Crown Made of Ram Horns              |       |
+|           | Flail of Iron Chains                 |       |
+| Gruumsh   | Bleeding Eye                         |       |
+| Lolth     | Spider                               |       |
+|           | Coiled Serpent                       |       |
+| Tharizdun | Jagged Spiral                        |       |
+|           | Severed Hand with an Eye in the Palm |       |
+| Torog     | Trio of Arms                         |       |
+|           | Dragon's Claw                        |       |
