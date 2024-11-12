@@ -26,7 +26,7 @@ Planet Exandria, region Xhorhas
 4. [On the road to Bazzoxan #2]({% link call-of-the-netherdeep/sessions/4-road-to-bazzoxan-2.md %})
 5. [Bazzoxan]({% link call-of-the-netherdeep/sessions/5-bazzoxan.md %})
 6. [Entering the Betrayers' Rise]({% link call-of-the-netherdeep/sessions/6-betrayers-rise-1.md %})
-7. Exploring the Betrayers' Rise
+7. [Exploring the Betrayers' Rise]({% link call-of-the-netherdeep/sessions/7-betrayers-rise-2.md %})
 8. An unwelcome reunion
 
 [//]: # (This is the main jumping-off point for all my notes for a specific campaign, and each campaign get one. It contains:)

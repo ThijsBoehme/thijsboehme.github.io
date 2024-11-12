@@ -32,14 +32,14 @@ He is somehow related to the Calamity.
 
 ## Betrayer Gods
 
-| God       | Symbol                               | Image |
-|-----------|--------------------------------------|-------|
-|           | Crown Made of Ram Horns              |       |
-|           | Flail of Iron Chains                 |       |
-| Gruumsh   | Bleeding Eye                         |       |
-| Lolth     | Spider                               |       |
-|           | Coiled Serpent                       |       |
-| Tharizdun | Jagged Spiral                        |       |
-|           | Severed Hand with an Eye in the Palm |       |
-| Torog     | Trio of Arms                         |       |
-|           | Dragon's Claw                        |       |
+| God       | Symbol                               | Domain               |
+|-----------|--------------------------------------|----------------------|
+|           | Crown Made of Ram Horns              |                      |
+|           | Flail of Iron Chains                 |                      |
+| Gruumsh   | Bleeding Eye                         |                      |
+| Lolth     | Spider                               |                      |
+|           | Coiled Serpent                       |                      |
+| Tharizdun | Jagged Spiral                        |                      |
+|           | Severed Hand with an Eye in the Palm |                      |
+| Torog     | Trio of Arms                         | Enslavement, torture |
+|           | Dragon's Claw                        |                      |
