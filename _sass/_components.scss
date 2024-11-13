@@ -2,17 +2,17 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
-    margin: $spacer-3 0;
-    padding-left: 16px;
-    width: (9 / 12 * 100%); // matches col-9
-    overflow-x: auto;
+  border-left: $spacer-1 solid $color-border;
+  margin: $spacer-3 0;
+  padding-left: 16px;
+  width: (9 / 12 * 100%); // matches col-9
+  overflow-x: auto;
 }
 
 code {
-    color: $color-code;
-    font-size: $body-font-size;
-    padding: 1px 4px;
+  color: $color-code;
+  font-size: $body-font-size;
+  padding: 1px 4px;
 }
 
 
@@ -58,18 +58,18 @@ code {
     border-left: $spacer-1 solid $color-border;
     font-style: italic;
 
-    p {
-      font-size: 24px;
-    }
+    // p {
+    //   font-size: 24px;
+    // }
 
     @media (min-width: $breakpoint-lg) {
       padding-left: $spacer-3;
       margin: $spacer-4 0 $spacer-4 -40px;
       max-width: (11 / 10 * 100%);
 
-      p {
-        font-size: 32px;
-      }
+      // p {
+      //   font-size: 32px;
+      // }
 
     }
 

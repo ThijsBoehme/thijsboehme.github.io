@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "#8 Betrayers' Rise"
+title: "#8 An unwelcome reunion"
 permalink: /call-of-the-netherdeep/sessions/8-betrayers-rise-3
 exclude: true
 ---

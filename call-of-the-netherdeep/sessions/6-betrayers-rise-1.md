@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "#6 Betrayers' Rise"
+title: "#6 Entering the Betrayers' Rise"
 permalink: /call-of-the-netherdeep/sessions/6-betrayers-rise-1
 exclude: true
 ---
