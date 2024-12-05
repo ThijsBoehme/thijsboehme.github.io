@@ -4,16 +4,20 @@ title: Chains of Asmodeus
 permalink: /chains-of-asmodeus/
 ---
 
-[Places](% link chains-of-asmodeus/places.md %})
+Our loved ones died mysteriously and it's up to us to save their souls from eternal torment.
 
-[People](% link chains-of-asmodeus/people.md %})
+[Places]({% link chains-of-asmodeus/places.md %})
 
-[Quests](% link chains-of-asmodeus/quests.md %})
+[People]({% link chains-of-asmodeus/people.md %})
 
-[Bestiary](% link chains-of-asmodeus/bestiary.md %})
+[Quests]({% link chains-of-asmodeus/quests.md %})
 
-[General important information](% link chains-of-asmodeus/general.md %})
+[Bestiary]({% link chains-of-asmodeus/bestiary.md %})
 
-[Miscellaneous](% link chains-of-asmodeus/miscellaneous.md %})
+[General important information]({% link chains-of-asmodeus/general.md %})
 
-[Sessions](% link chains-of-asmodeus/sessions.md %})
+[Miscellaneous]({% link chains-of-asmodeus/miscellaneous.md %})
+
+# Sessions
+
+1. [Prologue]({% link chains-of-asmodeus/sessions/0-prologue.md %})

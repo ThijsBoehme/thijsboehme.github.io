@@ -19,14 +19,22 @@ permalink: /chains-of-asmodeus/people
 Koh Tam
 : A priest serving the God of the Dead
 
-Ramius
-: A contact for the Hellriders of Elturel group patron
+Tiax
+: Koh Tam's sidekick and comedy relief
+
+Ramius, Hellrider of Elturel
+: Our group patron
 
 ## Adversaries
+Asmodeus
+: The Lord of the Nine Hells
 
-## Uncatergorised
-Sarevok
-: High priest of Bhaal, and the contact for the Deathstalkers of Bhaal group patron
+## Uncategorized
+Sarevok, High Priest of the Deathstalkers of Bhaal
+: 
 
-Zythan
-: High Diviner of Halruaa, and a contact for the Conclave of Halruaa group patron
+Zythan, High Diviner of the Conclave of Halruaa
+: 
+
+The Unmaker
+: A dangerous soul that has emerged and poses a threat
