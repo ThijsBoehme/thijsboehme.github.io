@@ -4,16 +4,16 @@ title: Chains of Asmodeus
 permalink: /chains-of-asmodeus/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll
-usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Places](% link chains-of-asmodeus/places.md %})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[People](% link chains-of-asmodeus/people.md %})
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Quests](% link chains-of-asmodeus/quests.md %})
 
+[Bestiary](% link chains-of-asmodeus/bestiary.md %})
 
-[jekyll-organization]: https://github.com/jekyll
+[General important information](% link chains-of-asmodeus/general.md %})
+
+[Miscellaneous](% link chains-of-asmodeus/miscellaneous.md %})
+
+[Sessions](% link chains-of-asmodeus/sessions.md %})
